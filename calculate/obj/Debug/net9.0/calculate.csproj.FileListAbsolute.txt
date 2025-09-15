@@ -12,3 +12,4 @@
 /Users/shivam/Desktop/Shivam/Development /ASP/calculate/obj/Debug/net9.0/calculate.pdb
 /Users/shivam/Desktop/Shivam/Development /ASP/calculate/obj/Debug/net9.0/calculate.genruntimeconfig.cache
 /Users/shivam/Desktop/Shivam/Development /ASP/calculate/obj/Debug/net9.0/ref/calculate.dll
+/Users/shivam/Desktop/Shivam/Development /ASP/calculate/obj/Debug/net9.0/calculate.sourcelink.json
