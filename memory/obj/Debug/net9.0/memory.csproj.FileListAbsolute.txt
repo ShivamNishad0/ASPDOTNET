@@ -1,0 +1,15 @@
+/Users/shivam/Desktop/Shivam/Development /ASP/memory/bin/Debug/net9.0/memory
+/Users/shivam/Desktop/Shivam/Development /ASP/memory/bin/Debug/net9.0/memory.deps.json
+/Users/shivam/Desktop/Shivam/Development /ASP/memory/bin/Debug/net9.0/memory.runtimeconfig.json
+/Users/shivam/Desktop/Shivam/Development /ASP/memory/bin/Debug/net9.0/memory.dll
+/Users/shivam/Desktop/Shivam/Development /ASP/memory/bin/Debug/net9.0/memory.pdb
+/Users/shivam/Desktop/Shivam/Development /ASP/memory/obj/Debug/net9.0/memory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shivam/Desktop/Shivam/Development /ASP/memory/obj/Debug/net9.0/memory.AssemblyInfoInputs.cache
+/Users/shivam/Desktop/Shivam/Development /ASP/memory/obj/Debug/net9.0/memory.AssemblyInfo.cs
+/Users/shivam/Desktop/Shivam/Development /ASP/memory/obj/Debug/net9.0/memory.csproj.CoreCompileInputs.cache
+/Users/shivam/Desktop/Shivam/Development /ASP/memory/obj/Debug/net9.0/memory.sourcelink.json
+/Users/shivam/Desktop/Shivam/Development /ASP/memory/obj/Debug/net9.0/memory.dll
+/Users/shivam/Desktop/Shivam/Development /ASP/memory/obj/Debug/net9.0/refint/memory.dll
+/Users/shivam/Desktop/Shivam/Development /ASP/memory/obj/Debug/net9.0/memory.pdb
+/Users/shivam/Desktop/Shivam/Development /ASP/memory/obj/Debug/net9.0/memory.genruntimeconfig.cache
+/Users/shivam/Desktop/Shivam/Development /ASP/memory/obj/Debug/net9.0/ref/memory.dll
