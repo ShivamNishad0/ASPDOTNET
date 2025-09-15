@@ -1,0 +1,14 @@
+/Users/shivam/Desktop/Shivam/Development /ASP/HelloApp/bin/Debug/net9.0/HelloApp
+/Users/shivam/Desktop/Shivam/Development /ASP/HelloApp/bin/Debug/net9.0/HelloApp.deps.json
+/Users/shivam/Desktop/Shivam/Development /ASP/HelloApp/bin/Debug/net9.0/HelloApp.runtimeconfig.json
+/Users/shivam/Desktop/Shivam/Development /ASP/HelloApp/bin/Debug/net9.0/HelloApp.dll
+/Users/shivam/Desktop/Shivam/Development /ASP/HelloApp/bin/Debug/net9.0/HelloApp.pdb
+/Users/shivam/Desktop/Shivam/Development /ASP/HelloApp/obj/Debug/net9.0/HelloApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shivam/Desktop/Shivam/Development /ASP/HelloApp/obj/Debug/net9.0/HelloApp.AssemblyInfoInputs.cache
+/Users/shivam/Desktop/Shivam/Development /ASP/HelloApp/obj/Debug/net9.0/HelloApp.AssemblyInfo.cs
+/Users/shivam/Desktop/Shivam/Development /ASP/HelloApp/obj/Debug/net9.0/HelloApp.csproj.CoreCompileInputs.cache
+/Users/shivam/Desktop/Shivam/Development /ASP/HelloApp/obj/Debug/net9.0/HelloApp.dll
+/Users/shivam/Desktop/Shivam/Development /ASP/HelloApp/obj/Debug/net9.0/refint/HelloApp.dll
+/Users/shivam/Desktop/Shivam/Development /ASP/HelloApp/obj/Debug/net9.0/HelloApp.pdb
+/Users/shivam/Desktop/Shivam/Development /ASP/HelloApp/obj/Debug/net9.0/HelloApp.genruntimeconfig.cache
+/Users/shivam/Desktop/Shivam/Development /ASP/HelloApp/obj/Debug/net9.0/ref/HelloApp.dll

@@ -1,0 +1,14 @@
+/Users/shivam/Desktop/Shivam/Development /ASP/calculate/bin/Debug/net9.0/calculate
+/Users/shivam/Desktop/Shivam/Development /ASP/calculate/bin/Debug/net9.0/calculate.deps.json
+/Users/shivam/Desktop/Shivam/Development /ASP/calculate/bin/Debug/net9.0/calculate.runtimeconfig.json
+/Users/shivam/Desktop/Shivam/Development /ASP/calculate/bin/Debug/net9.0/calculate.dll
+/Users/shivam/Desktop/Shivam/Development /ASP/calculate/bin/Debug/net9.0/calculate.pdb
+/Users/shivam/Desktop/Shivam/Development /ASP/calculate/obj/Debug/net9.0/calculate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shivam/Desktop/Shivam/Development /ASP/calculate/obj/Debug/net9.0/calculate.AssemblyInfoInputs.cache
+/Users/shivam/Desktop/Shivam/Development /ASP/calculate/obj/Debug/net9.0/calculate.AssemblyInfo.cs
+/Users/shivam/Desktop/Shivam/Development /ASP/calculate/obj/Debug/net9.0/calculate.csproj.CoreCompileInputs.cache
+/Users/shivam/Desktop/Shivam/Development /ASP/calculate/obj/Debug/net9.0/calculate.dll
+/Users/shivam/Desktop/Shivam/Development /ASP/calculate/obj/Debug/net9.0/refint/calculate.dll
+/Users/shivam/Desktop/Shivam/Development /ASP/calculate/obj/Debug/net9.0/calculate.pdb
+/Users/shivam/Desktop/Shivam/Development /ASP/calculate/obj/Debug/net9.0/calculate.genruntimeconfig.cache
+/Users/shivam/Desktop/Shivam/Development /ASP/calculate/obj/Debug/net9.0/ref/calculate.dll

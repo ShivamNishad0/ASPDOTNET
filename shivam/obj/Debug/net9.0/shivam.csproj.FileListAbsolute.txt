@@ -1,0 +1,14 @@
+/Users/shivam/Desktop/Shivam/Development /ASP/shivam/obj/Debug/net9.0/shivam.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shivam/Desktop/Shivam/Development /ASP/shivam/obj/Debug/net9.0/shivam.AssemblyInfoInputs.cache
+/Users/shivam/Desktop/Shivam/Development /ASP/shivam/obj/Debug/net9.0/shivam.AssemblyInfo.cs
+/Users/shivam/Desktop/Shivam/Development /ASP/shivam/obj/Debug/net9.0/shivam.csproj.CoreCompileInputs.cache
+/Users/shivam/Desktop/Shivam/Development /ASP/shivam/bin/Debug/net9.0/shivam
+/Users/shivam/Desktop/Shivam/Development /ASP/shivam/bin/Debug/net9.0/shivam.deps.json
+/Users/shivam/Desktop/Shivam/Development /ASP/shivam/bin/Debug/net9.0/shivam.runtimeconfig.json
+/Users/shivam/Desktop/Shivam/Development /ASP/shivam/bin/Debug/net9.0/shivam.dll
+/Users/shivam/Desktop/Shivam/Development /ASP/shivam/bin/Debug/net9.0/shivam.pdb
+/Users/shivam/Desktop/Shivam/Development /ASP/shivam/obj/Debug/net9.0/shivam.dll
+/Users/shivam/Desktop/Shivam/Development /ASP/shivam/obj/Debug/net9.0/refint/shivam.dll
+/Users/shivam/Desktop/Shivam/Development /ASP/shivam/obj/Debug/net9.0/shivam.pdb
+/Users/shivam/Desktop/Shivam/Development /ASP/shivam/obj/Debug/net9.0/shivam.genruntimeconfig.cache
+/Users/shivam/Desktop/Shivam/Development /ASP/shivam/obj/Debug/net9.0/ref/shivam.dll
