@@ -1,9 +1,10 @@
 using System;
 
+
 internal class Swap
 {
     static int a = 10, b = 20;
-    
+
     internal static void Swaping()
     {
         int temp = a;

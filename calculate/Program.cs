@@ -14,6 +14,13 @@ public class Calculate
 
         SimpleIntrest obj = new SimpleIntrest();
         obj.Calsi();
-
+        Compound obj1 = new Compound();
+        obj1.Interest();
+        Area obj2 = new Area();
+        obj2.Circle();
+        obj2.Triangle();
+        Converts.Converting();
+        Reverse obj3 = new Reverse();
+        obj3.Digit();
     }
 }
