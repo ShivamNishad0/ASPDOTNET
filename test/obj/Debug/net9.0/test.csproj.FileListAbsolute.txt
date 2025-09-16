@@ -1,0 +1,15 @@
+/Users/shivam/Desktop/Shivam/Development /ASP/test/bin/Debug/net9.0/test
+/Users/shivam/Desktop/Shivam/Development /ASP/test/bin/Debug/net9.0/test.deps.json
+/Users/shivam/Desktop/Shivam/Development /ASP/test/bin/Debug/net9.0/test.runtimeconfig.json
+/Users/shivam/Desktop/Shivam/Development /ASP/test/bin/Debug/net9.0/test.dll
+/Users/shivam/Desktop/Shivam/Development /ASP/test/bin/Debug/net9.0/test.pdb
+/Users/shivam/Desktop/Shivam/Development /ASP/test/obj/Debug/net9.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shivam/Desktop/Shivam/Development /ASP/test/obj/Debug/net9.0/test.AssemblyInfoInputs.cache
+/Users/shivam/Desktop/Shivam/Development /ASP/test/obj/Debug/net9.0/test.AssemblyInfo.cs
+/Users/shivam/Desktop/Shivam/Development /ASP/test/obj/Debug/net9.0/test.csproj.CoreCompileInputs.cache
+/Users/shivam/Desktop/Shivam/Development /ASP/test/obj/Debug/net9.0/test.sourcelink.json
+/Users/shivam/Desktop/Shivam/Development /ASP/test/obj/Debug/net9.0/test.dll
+/Users/shivam/Desktop/Shivam/Development /ASP/test/obj/Debug/net9.0/refint/test.dll
+/Users/shivam/Desktop/Shivam/Development /ASP/test/obj/Debug/net9.0/test.pdb
+/Users/shivam/Desktop/Shivam/Development /ASP/test/obj/Debug/net9.0/test.genruntimeconfig.cache
+/Users/shivam/Desktop/Shivam/Development /ASP/test/obj/Debug/net9.0/ref/test.dll
